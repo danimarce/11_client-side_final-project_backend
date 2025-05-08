@@ -1,25 +1,32 @@
 {
-  "posts": [
+  "books": [
     {
-      "id": "1",
+      "id": 1,
+      "title": "My first book",
       "author": "John Doe",
-      "title": "My first post",
-      "content": "This is the content of my first post. I'm excited to share my thoughts with the world!",
-      "date": "2025/05/05"
+      "year": 2030,
+      "status": "pending"
     },
     {
-      "id": "2",
-      "author": "Jane Doe",
-      "title": "My first post",
-      "content": "This is the content of my first post. I'm excited to share my thoughts with the world!",
-      "date": "2025/05/05"
+      "id": 2,
+      "title": "My second book",
+      "author": "John Doe",
+      "year": 2025,
+      "status": "in progress"
     },
     {
-      "id": "3",
-      "author": "Messi",
-      "title": "My first post",
-      "content": "This is the content of my first post. I'm excited to share my thoughts with the world!",
-      "date": "2025/05/05"
+      "id": 3,
+      "title": "My third book",
+      "author": "John Doe",
+      "year": 2025,
+      "status": "read"
+    },
+    {
+      "title": "My fourth book",
+      "author": "John Doe",
+      "year": 2030,
+      "status": "read",
+      "id": 4
     }
   ]
 }
